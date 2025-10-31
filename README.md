@@ -1,21 +1,21 @@
-# 💰 Sistema Bancário em Python — Funções, SOLID e Clean Code
+#  Sistema Bancário em Python — Funções, SOLID e Clean Code
 
 Este repositório faz parte do **Desafio da DIO.me**: evolução do Sistema Bancário em Python, agora com **funções**, **boas práticas de código**, **Clean Code** e fundamentação nos princípios **SOLID** para uma arquitetura mais escalável e de fácil manutenção.
 
 ---
 
-## 🎯 Objetivo do Projeto
+##  Objetivo do Projeto
 
 Refatorar o sistema bancário previamente criado, separando as funcionalidades em funções específicas e aplicando:
 
-✅ Modularização  
-✅ Código limpo e legível  
-✅ Organização por responsabilidade  
-✅ Regras de negócio bem definidas  
+* Modularização  
+* Código limpo e legível  
+* Organização por responsabilidade  
+* Regras de negócio bem definidas  
 
 ---
 
-## 🧠 Regras de Negócio
+##  Regras de Negócio
 
 - Depósito **somente valores positivos**
 - Limite de **R$ 500,00** por saque
@@ -27,18 +27,18 @@ Essas regras simulam cenários reais do sistema financeiro.
 
 ---
 
-## 🛠 Tecnologias e Boas Práticas
+##  Tecnologias e Boas Práticas
 
 | Conceito               | Aplicação no Projeto                      |
 |------------------------|-------------------------------------------|
-| ✅ Python 3            | Linguagem principal                       |
-| ✅ Clean Code          | Nomes intuitivos, funções curtas e claras |
-| ✅ SOLID               | Separação de responsabilidades por função |
-| ✅ Tratamento de erros | Validações no fluxo                       |
+|  Python 3              | Linguagem principal                       |
+|  Clean Code            | Nomes intuitivos, funções curtas e claras |
+|  SOLID                 | Separação de responsabilidades por função |
+|  Tratamento de erros   | Validações no fluxo                       |
 
 ---
 
-## 🧩 Arquitetura do Sistema
+##  Arquitetura do Sistema
 
 O sistema foi segmentado em funções:
 
@@ -53,8 +53,8 @@ O sistema foi segmentado em funções:
 
 ---
 
-## 📌 Como executar o projeto
+##  Como executar o projeto
 
-1️⃣ Clone este repositório:
+1 Clone este repositório:
 ```bash
 git clone https://github.com/CUSTcoding/sistema-bancario-python-funcoes.git
